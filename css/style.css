@@ -9,3 +9,23 @@ body {
   font-size: 16px;
   margin: 0;
 }
+
+.background {
+  background-image: url("../img/bgtile.png");
+  height: 300px;
+  position: static;
+}
+
+.container-left {
+
+}
+.container-right {
+  width: 505px;
+}
+.footer {
+
+}
+.frame {
+  background-image: url("../img/frame.png");
+  height: 100px;
+}
